@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppiumAUT>
+  <XCUIElementTypeApplication type="XCUIElementTypeApplication" name="MeetMe" label="MeetMe" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="667" index="0">
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="667" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="667" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="667" index="0">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="375" height="667" index="0">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="375" height="667" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="375" height="667" index="0">
+                <XCUIElementTypeImage type="XCUIElementTypeImage" name="logo_animation_0" enabled="true" visible="false" accessible="false" x="87" y="301" width="201" height="65" index="0"/>
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="171" y="429" width="33" height="33" index="1"/>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="667" index="1">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="667" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="667" index="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="667" index="0">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="667" index="0">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="20" width="375" height="647" index="0">
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="20" y="25" width="335" height="85" index="0">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="20" y="35" width="335" height="75" index="0">
+                          <XCUIElementTypeImage type="XCUIElementTypeImage" name="meetme-logo.png" label="Banner Logo" enabled="true" visible="true" accessible="true" x="104" y="35" width="168" height="75" index="0"/>
+                        </XCUIElementTypeOther>
+                      </XCUIElementTypeOther>
+                      <XCUIElementTypeTable type="XCUIElementTypeTable" enabled="true" visible="true" accessible="false" x="20" y="120" width="335" height="344" index="1">
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" name="We Care About Your Privacy" label="We Care About Your Privacy" enabled="true" visible="true" accessible="true" x="20" y="120" width="335" height="46" index="0">
+                          <XCUIElementTypeTextView type="XCUIElementTypeTextView" value="We Care About Your Privacy" name="bannerTitle" enabled="true" visible="true" accessible="false" x="25" y="125" width="325" height="36" index="0">
+                            <XCUIElementTypeTextView type="XCUIElementTypeTextView" name="We Care About Your Privacy" label="We Care About Your Privacy" enabled="true" visible="true" accessible="false" x="85" y="133" width="205" height="20" index="0"/>
+                          </XCUIElementTypeTextView>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="28" y="171" width="366" height="2" index="1"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="true" accessible="false" x="20" y="165" width="335" height="286" index="1">
+                          <XCUIElementTypeTextView type="XCUIElementTypeTextView" value="We and our 424 partners store and access personal data, like browsing data or unique identifiers, on your device. Selecting I Accept enables tracking technologies to support the purposes shown under we and our partners process data to provide. Selecting Reject All or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time within Manage Preferences. Your" name="bannerDescriptions" enabled="true" visible="true" accessible="false" x="25" y="165" width="325" height="286" index="0">
+                            <XCUIElementTypeTextView type="XCUIElementTypeTextView" name="We and our 424 partners store and access personal data, like browsing data or unique identifiers, on your device. Selecting I Accept enables tracking technologies to support the purposes shown under we and our partners process data to provide. Selecting Reject All or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time within Manage Preferences. Your choices will have effect within our Website. For more details, refer to our Privacy Policy." label="We and our 424 partners store and access personal data, like browsing data or unique identifiers, on your device. Selecting I Accept enables tracking technologies to support the purposes shown under we and our partners process data to provide. Selecting Reject All or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time within Manage Preferences. Your choices will have effect within our Website. For more details, refer to our Privacy Policy." enabled="true" visible="true" accessible="true" x="30" y="173" width="319" height="270" index="0"/>
+                          </XCUIElementTypeTextView>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="28" y="511" width="366" height="2" index="1"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" name="We and our partners process data to provide:" label="We and our partners process data to provide:" enabled="true" visible="true" accessible="true" x="20" y="450" width="335" height="59" index="2">
+                          <XCUIElementTypeTextView type="XCUIElementTypeTextView" value="We and our partners process data to provide:" name="bannerDPDTitle" enabled="true" visible="true" accessible="false" x="25" y="452" width="325" height="55" index="0">
+                            <XCUIElementTypeTextView type="XCUIElementTypeTextView" name="We and our partners process data to provide:" label="We and our partners process data to provide:" enabled="true" visible="true" accessible="false" x="58" y="460" width="262" height="39" index="0"/>
+                          </XCUIElementTypeTextView>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="28" y="493" width="366" height="2" index="1"/>
+                        </XCUIElementTypeCell>
+                        <XCUIElementTypeCell type="XCUIElementTypeCell" enabled="true" visible="false" accessible="false" x="20" y="509" width="335" height="136" index="3">
+                          <XCUIElementTypeTextView type="XCUIElementTypeTextView" value="Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.  " name="bannerDPDDescriptions" enabled="true" visible="false" accessible="false" x="25" y="511" width="325" height="132" index="0">
+                            <XCUIElementTypeTextView type="XCUIElementTypeTextView" name="Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.  " label="Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.  " enabled="true" visible="false" accessible="true" x="30" y="519" width="321" height="116" index="0"/>
+                          </XCUIElementTypeTextView>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="28" y="552" width="366" height="1" index="1"/>
+                        </XCUIElementTypeCell>
+                      </XCUIElementTypeTable>
+                      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="30" y="484" width="315" height="175" index="2">
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="bannerListOfVendors" label="List of Partners (vendors)" enabled="true" visible="true" accessible="true" x="30" y="484" width="315" height="40" index="0">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="List of Partners (vendors)" name="List of Partners (vendors)" label="List of Partners (vendors)" enabled="true" visible="true" accessible="false" x="99" y="484" width="177" height="40" index="0"/>
+                        </XCUIElementTypeButton>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="bannerButtonStackFirstItem" label="I Accept" enabled="true" visible="true" accessible="true" x="30" y="529" width="315" height="40" index="1">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="I Accept" name="I Accept" label="I Accept" enabled="true" visible="true" accessible="false" x="158" y="529" width="59" height="40" index="0"/>
+                        </XCUIElementTypeButton>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="bannerRejectAllButton" label="Reject All" enabled="true" visible="true" accessible="true" x="30" y="574" width="315" height="40" index="2">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Reject All" name="Reject All" label="Reject All" enabled="true" visible="true" accessible="false" x="154" y="574" width="67" height="40" index="0"/>
+                        </XCUIElementTypeButton>
+                        <XCUIElementTypeButton type="XCUIElementTypeButton" name="bannerPrivacySettingsButton" label="Show Purposes" enabled="true" visible="true" accessible="true" x="30" y="619" width="315" height="40" index="3">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Show Purposes" name="Show Purposes" label="Show Purposes" enabled="true" visible="true" accessible="false" x="134" y="619" width="107" height="40" index="0"/>
+                        </XCUIElementTypeButton>
+                      </XCUIElementTypeOther>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" accessible="false" x="0" y="0" width="375" height="667" index="1">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="375" height="667" index="0">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="375" height="667" index="0">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" accessible="false" x="0" y="0" width="375" height="667" index="0"/>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+  </XCUIElementTypeApplication>
+</AppiumAUT>
