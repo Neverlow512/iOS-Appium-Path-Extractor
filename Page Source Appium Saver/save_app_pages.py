@@ -5,8 +5,8 @@ import xml.etree.ElementTree as ET
 from appium import webdriver
 
 # Configuration
-APP_BUNDLE_ID = "com.myYearbook.MyYearbook"  # Target app bundle ID
-DEVICE_UDID = "44a09ef270e88b08cc7961e359de80093247362d"  # Your device's UDID
+APP_BUNDLE_ID = "ANY BUNDLE ID"  # Target app bundle ID
+DEVICE_UDID = "UDID"  # Your device's UDID
 
 # Set up Appium capabilities
 caps = {
